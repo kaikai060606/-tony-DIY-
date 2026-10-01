@@ -1,0 +1,410 @@
+{
+  "tutorial_blue": [
+    {
+      "step_id": "tutorial_blue_step_01",
+      "step_no": 1,
+      "total_steps": 4,
+      "start_time_ms": 0,
+      "end_time_ms": 24078,
+      "title": "介绍与准备",
+      "description": "介绍蓝色固色效果，准备固色发膜、洗发水和护发素。",
+      "points": [
+        "确认目标是蓝色固色。",
+        "准备固色发膜、固色洗发水和护发素。"
+      ],
+      "caution": "产品说明优先于视频口播。",
+      "clip_url": "/tutorial-segments/tutorial_blue/step-1.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "0.0–24.1 秒"
+    },
+    {
+      "step_id": "tutorial_blue_step_02",
+      "step_no": 2,
+      "total_steps": 4,
+      "start_time_ms": 24078,
+      "end_time_ms": 46370,
+      "title": "分区与涂抹",
+      "description": "按比例调配后从分区开始涂抹，让颜色覆盖更均匀。",
+      "points": [
+        "头发多时先分区。",
+        "干发直接涂抹并轻轻揉开。"
+      ],
+      "caution": null,
+      "clip_url": "/tutorial-segments/tutorial_blue/step-2.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "24.1–46.4 秒"
+    },
+    {
+      "step_id": "tutorial_blue_step_03",
+      "step_no": 3,
+      "total_steps": 4,
+      "start_time_ms": 46370,
+      "end_time_ms": 70112,
+      "title": "等待与冲洗",
+      "description": "揉开后等待几分钟，再用偏凉水冲洗并使用同色洗发水。",
+      "points": [
+        "不要用过高水温冲洗。",
+        "冲洗时继续轻揉让颜色更均匀。"
+      ],
+      "caution": "明显不适时提前冲洗。",
+      "clip_url": "/tutorial-segments/tutorial_blue/step-3.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "46.4–70.1 秒"
+    },
+    {
+      "step_id": "tutorial_blue_step_04",
+      "step_no": 4,
+      "total_steps": 4,
+      "start_time_ms": 70112,
+      "end_time_ms": 101266,
+      "title": "护理与效果展示",
+      "description": "完成冲洗和吹干，观察蓝色维持和掉色情况。",
+      "points": [
+        "吹风温度不要太高。",
+        "染后减少频繁洗头。"
+      ],
+      "caution": "前 48 小时尽量减少洗头。",
+      "clip_url": "/tutorial-segments/tutorial_blue/step-4.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "70.1–101.3 秒"
+    }
+  ],
+  "tutorial_red": [
+    {
+      "step_id": "tutorial_red_step_01",
+      "step_no": 1,
+      "total_steps": 4,
+      "start_time_ms": 0,
+      "end_time_ms": 20138,
+      "title": "介绍与准备",
+      "description": "介绍红色染发目标，准备旧衣服和皮肤隔离。",
+      "points": [
+        "穿不怕弄脏的衣服。",
+        "额头、脸颊和脖子后面先涂隔离。"
+      ],
+      "caution": null,
+      "clip_url": "/tutorial-segments/tutorial_red/step-1.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "0.0–20.1 秒"
+    },
+    {
+      "step_id": "tutorial_red_step_02",
+      "step_no": 2,
+      "total_steps": 4,
+      "start_time_ms": 20138,
+      "end_time_ms": 43454,
+      "title": "介绍与准备",
+      "description": "打开染发膏并准备工具，把需要混合的产品放到一起。",
+      "points": [
+        "确认说明书和工具。",
+        "按包装要求混合产品。"
+      ],
+      "caution": "不要随意改变官方比例。",
+      "clip_url": "/tutorial-segments/tutorial_red/step-2.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "20.1–43.5 秒"
+    },
+    {
+      "step_id": "tutorial_red_step_03",
+      "step_no": 3,
+      "total_steps": 4,
+      "start_time_ms": 43454,
+      "end_time_ms": 81567,
+      "title": "等待与冲洗",
+      "description": "完成调配和上色后等待显色，再准备冲洗。",
+      "points": [
+        "观察头顶上色情况。",
+        "时间差不多后及时冲洗。"
+      ],
+      "caution": "等待时间以商品说明为准。",
+      "clip_url": "/tutorial-segments/tutorial_red/step-3.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "43.5–81.6 秒"
+    },
+    {
+      "step_id": "tutorial_red_step_04",
+      "step_no": 4,
+      "total_steps": 4,
+      "start_time_ms": 81567,
+      "end_time_ms": 128637,
+      "title": "护理与效果展示",
+      "description": "查看洗后红色效果、均匀度和光泽感。",
+      "points": [
+        "洗后检查发色是否均匀。",
+        "观察不同光线下的颜色。"
+      ],
+      "caution": null,
+      "clip_url": "/tutorial-segments/tutorial_red/step-4.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "81.6–128.6 秒"
+    }
+  ],
+  "tutorial_purple": [
+    {
+      "step_id": "tutorial_purple_step_01",
+      "step_no": 1,
+      "total_steps": 3,
+      "start_time_ms": 0,
+      "end_time_ms": 25271,
+      "title": "产品调配",
+      "description": "介绍紫色固色发膜，按干发状态准备上头。",
+      "points": [
+        "干发状态下操作。",
+        "根据想要的浓淡决定是否混护发素。"
+      ],
+      "caution": null,
+      "clip_url": "/tutorial-segments/tutorial_purple/step-1.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "0.0–25.3 秒"
+    },
+    {
+      "step_id": "tutorial_purple_step_02",
+      "step_no": 2,
+      "total_steps": 3,
+      "start_time_ms": 25271,
+      "end_time_ms": 53888,
+      "title": "产品调配",
+      "description": "将发膜揉开到每一根头发，想要浅一点可泡水再淋。",
+      "points": [
+        "尽量不要漏掉头发。",
+        "后脑勺也要检查覆盖。"
+      ],
+      "caution": null,
+      "clip_url": "/tutorial-segments/tutorial_purple/step-2.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "25.3–53.9 秒"
+    },
+    {
+      "step_id": "tutorial_purple_step_03",
+      "step_no": 3,
+      "total_steps": 3,
+      "start_time_ms": 53888,
+      "end_time_ms": 98833,
+      "title": "护理与效果展示",
+      "description": "全头涂好后检查后脑勺，等待十几到二十分钟后冲洗。",
+      "points": [
+        "用镜子检查后脑勺。",
+        "等待后再冲洗。"
+      ],
+      "caution": "敏感头皮按产品说明保守控制时间。",
+      "clip_url": "/tutorial-segments/tutorial_purple/step-3.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "53.9–98.8 秒"
+    }
+  ],
+  "tutorial_pink": [
+    {
+      "step_id": "tutorial_pink_step_01",
+      "step_no": 1,
+      "total_steps": 3,
+      "start_time_ms": 0,
+      "end_time_ms": 32888,
+      "title": "介绍与准备",
+      "description": "介绍粉色固色目标，准备旧衣服和 NV 发膜。",
+      "points": [
+        "准备一件不要的衣服。",
+        "确认头皮状态再操作。"
+      ],
+      "caution": null,
+      "clip_url": "/tutorial-segments/tutorial_pink/step-1.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "0.0–32.9 秒"
+    },
+    {
+      "step_id": "tutorial_pink_step_02",
+      "step_no": 2,
+      "total_steps": 3,
+      "start_time_ms": 32888,
+      "end_time_ms": 56190,
+      "title": "产品调配",
+      "description": "用少量发膜加白色护发素调配粉色，也可以准备泡水法。",
+      "points": [
+        "少量多次调配。",
+        "加水搅拌均匀后再泡。"
+      ],
+      "caution": null,
+      "clip_url": "/tutorial-segments/tutorial_pink/step-2.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "32.9–56.2 秒"
+    },
+    {
+      "step_id": "tutorial_pink_step_03",
+      "step_no": 3,
+      "total_steps": 3,
+      "start_time_ms": 56190,
+      "end_time_ms": 98682,
+      "title": "护理与效果展示",
+      "description": "泡十来分钟，后脑勺和耳后多淋几遍，再固色洗一次。",
+      "points": [
+        "后脑勺和耳后要覆盖。",
+        "泡完后用固色产品清洗。"
+      ],
+      "caution": null,
+      "clip_url": "/tutorial-segments/tutorial_pink/step-3.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "56.2–98.7 秒"
+    }
+  ],
+  "tutorial_cold_tea": [
+    {
+      "step_id": "tutorial_cold_tea_step_01",
+      "step_no": 1,
+      "total_steps": 5,
+      "start_time_ms": 0,
+      "end_time_ms": 46173,
+      "title": "介绍与准备",
+      "description": "男生居家染发前先做防护，准备衣服、隔离和工具。",
+      "points": [
+        "穿深色或不要的衣服。",
+        "额头、耳后、脖子后面涂隔离。",
+        "按说明书混合染膏。"
+      ],
+      "caution": null,
+      "clip_url": "/tutorial-segments/tutorial_cold_tea/step-1.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "0.0–46.2 秒"
+    },
+    {
+      "step_id": "tutorial_cold_tea_step_02",
+      "step_no": 2,
+      "total_steps": 5,
+      "start_time_ms": 46173,
+      "end_time_ms": 95532,
+      "title": "分区与涂抹",
+      "description": "从鬓角附近开始刷发中发尾，再用梳子梳开。",
+      "points": [
+        "避开发根 1 到 2 厘米。",
+        "先涂再梳，保证每一面粘到染膏。"
+      ],
+      "caution": null,
+      "clip_url": "/tutorial-segments/tutorial_cold_tea/step-2.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "46.2–95.5 秒"
+    },
+    {
+      "step_id": "tutorial_cold_tea_step_03",
+      "step_no": 3,
+      "total_steps": 5,
+      "start_time_ms": 95532,
+      "end_time_ms": 143007,
+      "title": "分区与涂抹",
+      "description": "补上鬓角、后脑勺和发根，控制整体停留时间后冲洗。",
+      "points": [
+        "后脑勺要一层一层刷匀。",
+        "发根最后补涂。"
+      ],
+      "caution": "细软发和粗硬发等待时间不同，以说明为准。",
+      "clip_url": "/tutorial-segments/tutorial_cold_tea/step-3.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "95.5–143.0 秒"
+    },
+    {
+      "step_id": "tutorial_cold_tea_step_04",
+      "step_no": 4,
+      "total_steps": 5,
+      "start_time_ms": 143007,
+      "end_time_ms": 189049,
+      "title": "护理与效果展示",
+      "description": "冲洗后半干状态做护发，观察冷茶色显白效果。",
+      "points": [
+        "先冲掉染膏再洗发。",
+        "半干后护理发中发尾。"
+      ],
+      "caution": null,
+      "clip_url": "/tutorial-segments/tutorial_cold_tea/step-4.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "143.0–189.0 秒"
+    },
+    {
+      "step_id": "tutorial_cold_tea_step_05",
+      "step_no": 5,
+      "total_steps": 5,
+      "start_time_ms": 189049,
+      "end_time_ms": 238630,
+      "title": "护理与效果展示",
+      "description": "后续用护发素和护发精油护理，减少干涩和打结。",
+      "points": [
+        "洗后护发素敷几分钟。",
+        "吹干前使用护发精油。"
+      ],
+      "caution": "染后前三天尽量不要频繁洗头。",
+      "clip_url": "/tutorial-segments/tutorial_cold_tea/step-5.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "189.0–238.6 秒"
+    }
+  ],
+  "tutorial_cold_brown": [
+    {
+      "step_id": "tutorial_cold_brown_step_01",
+      "step_no": 1,
+      "total_steps": 4,
+      "start_time_ms": 0,
+      "end_time_ms": 32125,
+      "title": "介绍与准备",
+      "description": "第一次居家染发前清空周围环境，穿旧衣服并保护头皮。",
+      "points": [
+        "三天不洗头可帮助保护头皮。",
+        "清空周围日用品。",
+        "发际线和脖子后面涂隔离。"
+      ],
+      "caution": null,
+      "clip_url": "/tutorial-segments/tutorial_cold_brown/step-1.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "0.0–32.1 秒"
+    },
+    {
+      "step_id": "tutorial_cold_brown_step_02",
+      "step_no": 2,
+      "total_steps": 4,
+      "start_time_ms": 32125,
+      "end_time_ms": 64049,
+      "title": "产品调配",
+      "description": "戴好耳套、手套和披肩，按 1 比 1 调配并加入精油。",
+      "points": [
+        "染发剂和显发剂按比例混合。",
+        "精油不要忘记加入。",
+        "认真搅拌均匀。"
+      ],
+      "caution": null,
+      "clip_url": "/tutorial-segments/tutorial_cold_brown/step-2.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "32.1–64.0 秒"
+    },
+    {
+      "step_id": "tutorial_cold_brown_step_03",
+      "step_no": 3,
+      "total_steps": 4,
+      "start_time_ms": 64049,
+      "end_time_ms": 97971,
+      "title": "分区与涂抹",
+      "description": "把头发分成上下左右区域，从下层开始距离发根两指涂抹。",
+      "points": [
+        "头发多可分成 6 个区。",
+        "发中到发尾多涂。",
+        "反复揉搓确保每根发丝覆盖。"
+      ],
+      "caution": null,
+      "clip_url": "/tutorial-segments/tutorial_cold_brown/step-3.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "64.0–98.0 秒"
+    },
+    {
+      "step_id": "tutorial_cold_brown_step_04",
+      "step_no": 4,
+      "total_steps": 4,
+      "start_time_ms": 97971,
+      "end_time_ms": 144193,
+      "title": "护理与效果展示",
+      "description": "补涂发根并检查均匀度，清洗后查看冷棕色光泽效果。",
+      "points": [
+        "等待后再染发根。",
+        "对镜检查是否涂抹均匀。",
+        "清洗后观察不同光线效果。"
+      ],
+      "caution": null,
+      "clip_url": "/tutorial-segments/tutorial_cold_brown/step-4.mp4",
+      "source": "original_backend_manual_steps",
+      "display_time_range": "98.0–144.2 秒"
+    }
+  ]
+}
